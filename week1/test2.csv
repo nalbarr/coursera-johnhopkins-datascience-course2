@@ -1,0 +1,6 @@
+a,b,c,d
+1,a,2,TRUE
+2,b,3,TRUE
+3,c,2,TRUE
+4,d,3,TRUE
+5,e,NA,FALSE
